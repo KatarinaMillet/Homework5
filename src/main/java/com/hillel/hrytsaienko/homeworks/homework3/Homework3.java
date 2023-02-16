@@ -18,7 +18,6 @@ public class Homework3 {
         System.out.println("Stonehenge coordinates:");
         System.out.println("DMS Lat: " + x + ch + w + ra + r + we + " 51.178889" + ra + cr + "");
         System.out.println("DMS Long: " + q + ch + y + ra + o + we + " 1.826111" + ra + ca + "");
-        System.out.println("AAA");
     }
 
 }
